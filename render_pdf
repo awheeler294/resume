@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+pandoc -s -o "Andrew Wheeler Resume.pdf" resume.md
