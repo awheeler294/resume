@@ -24,11 +24,11 @@ output: pdf_document
 running on-device UI, and running the grill's cooking logic, including executing 
 user-selected cook programs. 
 - Interfaces with an underlying system layer for hardware control, as well as 
-directly interfacing with device drivers written in C via  Rust's Foreign Function Interface.
+directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
 - Develop firmware for STM32 and ESP32s3 microcontrollers
 - Write code for a highly resource-constrained environment on the STM32, without 
 access to the standard library or an allocator
-- Develop for a full-featured, multi-threaded platform on the ESP32
+- Develop for a full-featured, multithreaded platform on the ESP32
 - Design systems for high reliability in adverse conditions with unreliable network 
 connectivity (outdoor grilling)
 - Create flexible interfaces and APIs that can be easily updated as features are added
@@ -44,7 +44,7 @@ connectivity (outdoor grilling)
     * Write code to support new app features and functionality on legacy grill platform
     * Work with mobile app teams to investigate and fix bugs discovered during testing
 
-* Build out UI for Weber Connect's next gen mid range grill controller
+* Build out UI for Weber Connect's next gen mid-range grill controller
     * Take UI from prototype stage to feature complete
     * Design and implement lightweight, reusable screens and components for a segmented LCD display.
     * Work closely with designers and testers to ensure all UI features are implemented correctly
@@ -71,7 +71,7 @@ connectivity (outdoor grilling)
    * Identify and correct performance bottlenecks
    * Optimize database queries
    * Migrate codebase from Python 2 to 3 
-   * Build integrations so that Dish set top boxes can utilize Sling's streaming infrastructure to stream customers content from their set top boxes to their personal devices
+   * Build integrations so that Dish set-top boxes can utilize Sling's streaming infrastructure to stream customers content from their set-top boxes to their personal devices
 
 * Build and deploy automated system to identify and curb pirate activity
 
