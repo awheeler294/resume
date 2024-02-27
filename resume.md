@@ -1,9 +1,3 @@
----
-block-headings: True
-geometry: margin=2cm
-output: pdf_document
----
-
 # Andrew Wheeler
 ##### awheeler294@gmail.com | (425) 367-3402
 
@@ -23,7 +17,7 @@ and expand my technichal skills, and I'm open to oppertunities outside my core e
 
 #### Work History
 
-##### Embedded Software Engineer: Weber Inc
+##### Embedded Software Engineer: Weber-Stephens Products
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
@@ -40,7 +34,7 @@ access to the standard library or an allocator
 connectivity (outdoor grilling)
 - Create flexible interfaces and APIs that can be easily updated as features are added
 
-###### Projects:
+**Projects**:
 
 * Build Cook Analytics system
     * Work with Server Engineering team to define messaging schema
