@@ -13,7 +13,7 @@ Software Engineer with 7 years of experience. I have extensive experience in Rus
 working in embedded development and backend web streaming services, with a small amount of full-stack
 web development experience. I enjoy working at scale, both large and small. I like to build APIs and 
 interfaces that are simple to use and easy to understand, backed by automated tests. I love to learn
-and expand my technichal skills, and I'm open to oppertunities outside my core experience.
+and expand my technical skills, and I'm open to opportunities outside my core experience.
 
 #### Work History
 
