@@ -1,23 +1,23 @@
 # Andrew Wheeler
 ##### awheeler294@gmail.com | (425) 367-3402
 
-#### Skills
-
-* Rust, Python, Javascript, PHP, C#, Java
-* SQL, HTML/CSS, Bash 
-* Linux, REST, Microservices, Concurrency
-* Embedded Development, Embedded UI, Microcontrollers
-
 #### About
-Software Engineer with 7 years of experience. I have extensive experience in Rust and Python, 
-working in embedded development and backend web streaming services, with a small amount of full-stack
+Software Engineer with over 7 years of experience. Extensive experience in Rust and Python, 
+working in embedded development and back-end web streaming services, with some full-stack
 web development experience. I enjoy working at scale, both large and small. I like to build APIs and 
 interfaces that are simple to use and easy to understand, backed by automated tests. I love to learn
 and expand my technical skills, and I'm open to opportunities outside my core experience.
 
+#### Skills
+
+* Rust, Python, Javascript, PHP, C#, Java, C, C++
+* SQL, HTML/CSS, Bash, Docker, Git, NGINX, Nix 
+* Linux, REST, Microservices, Concurrency, Distributed Systems
+* Embedded Development, Embedded UI, Microcontrollers
+
 #### Work History
 
-##### Embedded Software Engineer: Weber-Stephens Products
+##### Embedded Software Engineer: Weber
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
@@ -34,7 +34,7 @@ access to the standard library or an allocator
 connectivity (outdoor grilling)
 - Create flexible interfaces and APIs that can be easily updated as features are added
 
-**Projects**:
+###### Projects:
 
 * Build Cook Analytics system
     * Work with Server Engineering team to define messaging schema
@@ -51,11 +51,11 @@ connectivity (outdoor grilling)
     * Work closely with designers and testers to ensure all UI features are implemented correctly
 
 * Integrate existing appliance control library into next generation controller platform
-    * Create thread-safe wrapper to allow the appliance control system to run on it's own thread
+    * Create thread-safe wrapper to allow the appliance control system to run on its own thread
     * Create message queue based API to communicate with UI and system layers
     * Build thread-safe static callback system for interacting with C hardware interfaces
 
-##### Software Engineer: Sling TV (Dish Network)
+##### Backend Software Engineer: Sling TV (Dish Network)
 ###### Aug 2017 - June 2022 | American Fork, UT
 
 - Work on Sling TV's video pipeline team to package and deliver live video from encoder to players
@@ -86,11 +86,7 @@ connectivity (outdoor grilling)
    * Work with client teams to identify and fix bugs
    * Work with product managers to identify situations where workarounds would be needed for specific clients
 
-
-#### Education
-###### Computer Science: Brigham Young University
-
-##### Web Application Developer: BYU Student Life Technology
+##### Full Stack Web Developer: BYU Student Life Technology
 ###### Apr 2014 - Apr 2017 | Provo, UT
 
 * Full stack web development on Linux, Apache, MySQL, PHP, Javascript stack
@@ -107,4 +103,5 @@ connectivity (outdoor grilling)
 
 * Full stack web developer on a Microsoft stack: C#, ASP.net, IIS, MSSQL
 
-
+#### Education
+###### Computer Science: Brigham Young University
