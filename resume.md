@@ -21,18 +21,18 @@ Proficient at learning and expanding technical skills, and open to opportunities
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
-- Develop software responsible for communicating with mobile apps and backend servers, 
+- Developed software responsible for communicating with mobile apps and backend servers, 
 running on-device UI, and running the grill's cooking logic, including executing 
 user-selected cook programs. 
-- Interfaces with an underlying system layer for hardware control, as well as 
+- Interfaced with an underlying system layer for hardware control, as well as 
 directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
-- Develop firmware for STM32 and ESP32s3 microcontrollers
-- Write code for a highly resource-constrained environment on the STM32, without 
+- Developed firmware for STM32 and ESP32s3 microcontrollers
+- Wrote code for a highly resource-constrained environment on the STM32, without 
 access to the standard library or an allocator
-- Develop for a full-featured, multithreaded platform on the ESP32
-- Design systems for high reliability in adverse conditions with unreliable network 
+- Developed for a full-featured, multithreaded platform on the ESP32
+- Designed systems for high reliability in adverse conditions with unreliable network 
 connectivity (outdoor grilling)
-- Create flexible interfaces and APIs that can be easily updated as features are added
+- Created flexible interfaces and APIs that can be easily updated as features are added
 
 ###### Projects:
 
@@ -41,7 +41,7 @@ connectivity (outdoor grilling)
     * Built analytics reporting API
     * Instrumented code to report analytics events
 
-* Supported launch of redesigned Weber Connect appliance
+* Supported launch of redesigned Weber Connect mobile app
     * Wrote code to support new app features and functionality on legacy grill platform
     * Worked with mobile app teams to investigate and fix bugs discovered during testing
 
@@ -60,7 +60,7 @@ connectivity (outdoor grilling)
 
 - Work on Sling TV's video pipeline team to package and deliver live video from encoder to players
 - Build and maintain performant, scalable, highly available services handling millions of concurrent users making tens of thousands of requests per second
-- Work with stakeholders to establish SLOs/SLAs and ensure systems are meeting them
+- Work with stakeholders to establish SLO/SLAs and ensure systems are meeting them
 - Design and implement new API's and features
 - Manage deployments through to production
 - Respond to production emergencies and outages whenever needed
@@ -84,7 +84,7 @@ connectivity (outdoor grilling)
    * Implemented new JWT based security checks that integrate with the Stream Authorizer
    * Implemented new entitlement checking
    * Worked with client teams to identify and fix bugs
-   * Workeed with product managers to identify situations where workarounds would be needed for specific clients
+   * Worked with product managers to identify situations where workarounds would be needed for specific clients
 
 ##### Full Stack Web Developer: BYU Student Life Technology
 ###### Apr 2014 - Apr 2017 | Provo, UT
