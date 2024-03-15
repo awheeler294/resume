@@ -2,11 +2,11 @@
 ##### awheeler294@gmail.com | (425) 367-3402
 
 #### About
-Software Engineer with over 7 years of experience. Extensive experience in Rust and Python, 
-working in embedded development and back-end web streaming services, with some full-stack
-web development experience. I enjoy working at scale, both large and small. I like to build APIs and 
-interfaces that are simple to use and easy to understand, backed by automated tests. I love to learn
-and expand my technical skills, and I'm open to opportunities outside my core experience.
+Software Engineer with over 7 years of experience. 
+Extensive experience in Rust and Python, working in embedded development and back-end web streaming services. 
+Experience with full-stack web development. 
+Built APIs and interfaces that are simple to use and easy to understand, backed by automated tests. 
+Proficient at learning and expanding technical skills, and open to opportunities outside my core experience.
 
 #### Skills
 
@@ -21,7 +21,7 @@ and expand my technical skills, and I'm open to opportunities outside my core ex
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
-- Develop software responsible for communicating with mobile apps and backed servers, 
+- Develop software responsible for communicating with mobile apps and backend servers, 
 running on-device UI, and running the grill's cooking logic, including executing 
 user-selected cook programs. 
 - Interfaces with an underlying system layer for hardware control, as well as 
@@ -36,24 +36,24 @@ connectivity (outdoor grilling)
 
 ###### Projects:
 
-* Build Cook Analytics system
-    * Work with Server Engineering team to define messaging schema
-    * Build analytics reporting API
-    * Instrument code to report analytics events
+* Built Cook Analytics system
+    * Worked with Server Engineering team to define messaging schema
+    * Built analytics reporting API
+    * Instrumented code to report analytics events
 
-* Support launch of redesigned Weber Connect appliance
-    * Write code to support new app features and functionality on legacy grill platform
-    * Work with mobile app teams to investigate and fix bugs discovered during testing
+* Supported launch of redesigned Weber Connect appliance
+    * Wrote code to support new app features and functionality on legacy grill platform
+    * Worked with mobile app teams to investigate and fix bugs discovered during testing
 
-* Build out UI for Weber Connect's next gen mid-range grill controller
-    * Take UI from prototype stage to feature complete
-    * Design and implement lightweight, reusable screens and components for a segmented LCD display.
-    * Work closely with designers and testers to ensure all UI features are implemented correctly
+* Built out UI for Weber Connect's next gen mid-range grill controller
+    * Took UI from prototype stage to feature complete
+    * Designed and implemented lightweight, reusable screens and components for a segmented LCD display
+    * Worked closely with designers and testers to ensure all UI features are implemented correctly
 
-* Integrate existing appliance control library into next generation controller platform
-    * Create thread-safe wrapper to allow the appliance control system to run on its own thread
-    * Create message queue based API to communicate with UI and system layers
-    * Build thread-safe static callback system for interacting with C hardware interfaces
+* Integrated existing appliance control library into next generation controller platform
+    * Created thread-safe wrapper to allow the appliance control system to run on its own thread
+    * Created message queue based API to communicate with UI and system layers
+    * Built thread-safe static callback system for interacting with C hardware interfaces
 
 ##### Backend Software Engineer: Sling TV (Dish Network)
 ###### Aug 2017 - June 2022 | American Fork, UT
@@ -67,24 +67,24 @@ connectivity (outdoor grilling)
 
 ###### Projects:
 
-* Maintain Sling's multi-DRM Keystore, a Python server backed by a Postgres database that generates and stores keys for Widevine, Fairplay, Playready and other DRM systems used by Sling's players
-   * Implement new features and endpoints
-   * Identify and correct performance bottlenecks
-   * Optimize database queries
-   * Migrate codebase from Python 2 to 3 
-   * Build integrations so that Dish set-top boxes can utilize Sling's streaming infrastructure to stream customers content from their set-top boxes to their personal devices
+* Maintained Sling's multi-DRM Keystore, a Python server backed by a Postgres database that generates and stores keys for Widevine, Fairplay, Playready and other DRM systems used by Sling's players
+   * Implemented new features and endpoints
+   * Identified and corrected performance bottlenecks
+   * Optimized database queries
+   * Migrated codebase from Python 2 to 3 
+   * Built integrations so that Dish set-top boxes could utilize Sling's streaming infrastructure to stream customers content from their set-top boxes to their personal devices
 
-* Build and deploy automated system to identify and curb pirate activity
+* Built and deployed automated system to identify and curb pirate activity
 
-* Work with team to build Stream Authorizer, a Rust server that improves stream security by moving security checks to the backend
+* Worked with team to build Stream Authorizer, a Rust server that improves stream security by moving security checks to the backend
    * Build entitlement checking system
    * Build proof-of-concept for Kubernetes deployment
 
-* Take over ownership of the Widevine/Fairplay key server
-   * Implement new JWT based security checks that integrate with the Stream Authorizer
-   * Implement new entitlement checking
-   * Work with client teams to identify and fix bugs
-   * Work with product managers to identify situations where workarounds would be needed for specific clients
+* Took over ownership of the Widevine/Fairplay key server
+   * Implemented new JWT based security checks that integrate with the Stream Authorizer
+   * Implemented new entitlement checking
+   * Worked with client teams to identify and fix bugs
+   * Workeed with product managers to identify situations where workarounds would be needed for specific clients
 
 ##### Full Stack Web Developer: BYU Student Life Technology
 ###### Apr 2014 - Apr 2017 | Provo, UT
