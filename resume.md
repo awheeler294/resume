@@ -21,17 +21,9 @@ Proficient at learning and expanding technical skills, and open to opportunities
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
-- Developed software responsible for communicating with mobile apps and backend servers, 
-running on-device UI, and running the grill's cooking logic, including executing 
-user-selected cook programs. 
-- Interfaced with an underlying system layer for hardware control, as well as 
-directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
-- Developed firmware for STM32 and ESP32s3 microcontrollers
-- Wrote code for a highly resource-constrained environment on the STM32, without 
-access to the standard library or an allocator
-- Developed for a full-featured, multithreaded platform on the ESP32
-- Designed systems for high reliability in adverse conditions with unreliable network 
-connectivity (outdoor grilling)
+- Developed software responsible for communicating with mobile apps and backend servers, running on-device UI, and running the grill's cooking logic, including executing user-selected cook programs. 
+- Interfaced with an underlying system layer for hardware control, as well as directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
+- Designed systems for high reliability in adverse conditions with unreliable network connectivity (outdoor grilling)
 - Created flexible interfaces and APIs that can be easily updated as features are added
 
 ###### Projects:
@@ -74,17 +66,17 @@ connectivity (outdoor grilling)
    * Migrated codebase from Python 2 to 3 
    * Built integrations so that Dish set-top boxes could utilize Sling's streaming infrastructure to stream customers content from their set-top boxes to their personal devices
 
-* Built and deployed automated system to identify and curb pirate activity
+* Built and deployed automated system to curb pirate activity by identifying users with suspicious usage patterns, which allowed Sling to maintain contractual compliance with media suppliers while the team worked on a more complete stream security solution.
 
 * Worked with team to build Stream Authorizer, a Rust server that improves stream security by moving security checks to the backend
-   * Build entitlement checking system
-   * Build proof-of-concept for Kubernetes deployment
+   * Built entitlement checking system
+   * Built proof-of-concept for Kubernetes deployment
 
 * Took over ownership of the Widevine/Fairplay key server
    * Implemented new JWT based security checks that integrate with the Stream Authorizer
    * Implemented new entitlement checking
    * Worked with client teams to identify and fix bugs
-   * Worked with product managers to identify situations where workarounds would be needed for specific clients
+   * Worked with product managers to identify and implement workarounds needed for specific clients
 
 ##### Full Stack Web Developer: BYU Student Life Technology
 ###### Apr 2014 - Apr 2017 | Provo, UT
