@@ -74,17 +74,17 @@ connectivity (outdoor grilling)
    * Migrated codebase from Python 2 to 3 
    * Built integrations so that Dish set-top boxes could utilize Sling's streaming infrastructure to stream customers content from their set-top boxes to their personal devices
 
-* Built and deployed automated system to identify and curb pirate activity
+* Built and deployed automated system to curb pirate activity by identifying users with suspicious usage patterns, which allowed Sling to maintain contractual compliance with media suppliers while the team worked on a more complete stream security solution.
 
 * Worked with team to build Stream Authorizer, a Rust server that improves stream security by moving security checks to the backend
-   * Build entitlement checking system
-   * Build proof-of-concept for Kubernetes deployment
+   * Built entitlement checking system
+   * Built proof-of-concept for Kubernetes deployment
 
 * Took over ownership of the Widevine/Fairplay key server
    * Implemented new JWT based security checks that integrate with the Stream Authorizer
    * Implemented new entitlement checking
    * Worked with client teams to identify and fix bugs
-   * Worked with product managers to identify situations where workarounds would be needed for specific clients
+   * Worked with product managers to identify and implement workarounds needed for specific clients
 
 ##### Full Stack Web Developer: BYU Student Life Technology
 ###### Apr 2014 - Apr 2017 | Provo, UT
