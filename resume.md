@@ -58,12 +58,12 @@ connectivity (outdoor grilling)
 ##### Backend Software Engineer: Sling TV (Dish Network)
 ###### Aug 2017 - June 2022 | American Fork, UT
 
-- Work on Sling TV's video pipeline team to package and deliver live video from encoder to players
-- Build and maintain performant, scalable, highly available services handling millions of concurrent users making tens of thousands of requests per second
-- Work with stakeholders to establish SLO/SLAs and ensure systems are meeting them
-- Design and implement new API's and features
-- Manage deployments through to production
-- Respond to production emergencies and outages whenever needed
+- Worked on Sling TV's video pipeline team to package and deliver live video from encoder to players
+- Built and maintained performant, scalable, highly available services handling millions of concurrent users making tens of thousands of requests per second
+- Worked with stakeholders to establish SLO/SLAs and ensure systems are meeting them
+- Designed and implement new API's and features
+- Managed deployments through to production
+- Responded to production emergencies and outages whenever needed
 
 ###### Projects:
 
