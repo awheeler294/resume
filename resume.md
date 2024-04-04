@@ -21,17 +21,12 @@ Proficient at learning and expanding technical skills, and open to opportunities
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
-- Developed software responsible for communicating with mobile apps and backend servers, 
-running on-device UI, and running the grill's cooking logic, including executing 
-user-selected cook programs. 
-- Interfaced with an underlying system layer for hardware control, as well as 
-directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
+- Developed software responsible for communicating with mobile apps and backend servers, running on-device UI, and running the grill's cooking logic, including executing user-selected cook programs. 
+- Interfaced with an underlying system layer for hardware control, as well as directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
 - Developed firmware for STM32 and ESP32s3 microcontrollers
-- Wrote code for a highly resource-constrained environment on the STM32, without 
-access to the standard library or an allocator
+- Wrote code for a highly resource-constrained environment on the STM32, without access to the standard library or an allocator
 - Developed for a full-featured, multithreaded platform on the ESP32
-- Designed systems for high reliability in adverse conditions with unreliable network 
-connectivity (outdoor grilling)
+- Designed systems for high reliability in adverse conditions with unreliable network connectivity (outdoor grilling)
 - Created flexible interfaces and APIs that can be easily updated as features are added
 
 ###### Projects:
@@ -61,7 +56,7 @@ connectivity (outdoor grilling)
 - Worked on Sling TV's video pipeline team to package and deliver live video from encoder to players
 - Built and maintained performant, scalable, highly available services handling millions of concurrent users making tens of thousands of requests per second
 - Worked with stakeholders to establish SLO/SLAs and ensure systems are meeting them
-- Designed and implement new API's and features
+- Designed and implemented new API's and features
 - Managed deployments through to production
 - Responded to production emergencies and outages whenever needed
 
