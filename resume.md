@@ -10,10 +10,8 @@ Proficient at learning and expanding technical skills, and open to opportunities
 
 #### Skills
 
-* Rust, Python, Javascript, PHP, C#, Java, C, C++
-* SQL, HTML/CSS, Bash, Docker, Git, NGINX, Nix 
-* Linux, REST, Microservices, Concurrency, Distributed Systems
-* Embedded Development, Embedded UI, Microcontrollers
+* Deep experience with Rust, Python, PHP, SQL, Git, Linux, REST, Microservices, Distributed Systems, Concurrency, Embedded Development, Embedded UI, Microcontrollers
+* Broad experience with Javascript, C#, Java, C, C++, HTML/CSS, Bash, Docker, Kubernetes, NGINX, Salt, Nix 
 
 #### Work History
 
@@ -53,7 +51,8 @@ Proficient at learning and expanding technical skills, and open to opportunities
 ##### Backend Software Engineer: Sling TV (Dish Network)
 ###### Aug 2017 - June 2022 | American Fork, UT
 
-- Worked on Sling TV's video pipeline team to package and deliver live video from encoder to players
+- Backend web development for Sling TV's live video pipeline in Python and Rust
+- Built and maintained servers to package and deliver live video from encoder to players
 - Built and maintained performant, scalable, highly available services handling millions of concurrent users making tens of thousands of requests per second
 - Worked with stakeholders to establish SLO/SLAs and ensure systems are meeting them
 - Designed and implemented new API's and features
