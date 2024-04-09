@@ -22,12 +22,12 @@ Proficient at learning and expanding technical skills, and open to opportunities
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
 - Developed software responsible for communicating with mobile apps and backend servers, running on-device UI, and running the grill's cooking logic, including executing user-selected cook programs. 
-- Interfaced with an underlying system layer for hardware control, as well as directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
 - Developed firmware for STM32 and ESP32s3 microcontrollers
-- Wrote code for a highly resource-constrained environment on the STM32, without access to the standard library or an allocator
+- Wrote low level, resource-constrained, no-std code for the STM32
 - Developed for a full-featured, multithreaded platform on the ESP32
 - Designed systems for high reliability in adverse conditions with unreliable network connectivity (outdoor grilling)
 - Created flexible interfaces and APIs that can be easily updated as features are added
+- Interfaced with an underlying system layer for hardware control, as well as directly interfacing with device drivers written in C via Rust's Foreign Function Interface.
 
 ###### Projects:
 
@@ -75,7 +75,7 @@ Proficient at learning and expanding technical skills, and open to opportunities
    * Built entitlement checking system
    * Built proof-of-concept for Kubernetes deployment
 
-* Took over ownership of the Widevine/Fairplay key server
+* Maintained Sling's Widevine/Fairplay key server
    * Implemented new JWT based security checks that integrate with the Stream Authorizer
    * Implemented new entitlement checking
    * Worked with client teams to identify and fix bugs
