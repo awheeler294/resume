@@ -11,7 +11,7 @@ Proficient at learning and expanding technical skills, and open to opportunities
 #### Skills
 
 * Deep experience with Rust, Python, PHP, SQL, Git, Linux, REST, Microservices, Distributed Systems, Concurrency, Embedded Development, Embedded UI, Microcontrollers
-* Broad experience with Javascript, C#, Java, C, C++, HTML/CSS, Bash, Docker, Kubernetes, NGINX, Salt, Nix 
+* Broad experience with Javascript, C#, Java, C, C++, HTML/CSS, Shell Scripting, Docker, Kubernetes, NGINX, Salt, Nix, FreeRTOS 
 
 #### Work History
 
@@ -19,7 +19,7 @@ Proficient at learning and expanding technical skills, and open to opportunities
 ###### June 2022 - Oct 2023 | Remote
 
 - Embedded development in Rust for the Weber Connect smart grilling platform
-- Developed software responsible for communicating with mobile apps and backend servers, running on-device UI, and running the grill's cooking logic, including executing user-selected cook programs. 
+- Worked on the grill controller platform team, developing software responsible for communicating with mobile apps and backend servers, running on-device UI, running the grill's cooking logic, and executing user-selected cook programs. 
 - Developed firmware for STM32 and ESP32s3 microcontrollers
 - Wrote low level, resource-constrained, no-std code for the STM32
 - Developed for a full-featured, multithreaded platform on the ESP32
